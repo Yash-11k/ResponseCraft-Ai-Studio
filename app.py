@@ -184,6 +184,11 @@ PRESETS = {
         "intent": "Reach out to a new professional contact in a friendly and genuine way.",
         "tone": "Professional 💼", "length": "Detailed",
     },
+    "🎂 Birthday wish": {
+        "intent": "Wish them a happy birthday warmly, and mention I hope their day is amazing.",
+        "tone": "Sweet & polite 😊", "length": "Short",
+    },
+    
 }
 
 SYSTEM_INSTRUCTION = """You are 'ResponseCraft', an expert interpersonal communication assistant.
