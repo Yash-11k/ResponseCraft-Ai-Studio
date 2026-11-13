@@ -1,13 +1,13 @@
 # 💬 ResponseCraft
 
-**Paste a message. Choose the tone. Get a ready-to-send reply.**
+
 
 ResponseCraft is a small AI web app that writes replies for WhatsApp, LinkedIn, Email, Instagram, Slack and Twitter / X. Tell it who you are replying to and how you feel, then copy the result with one click.
 
 add-pink-theme
 <!-- 🔗 **Live app:** _add your Streamlit link here_ -->
 <!-- 🔗 **Live app:** https://responsecraft-ai-studio.streamlit.app/ -->
-< main -->
+
 
 ---
 
@@ -99,9 +99,8 @@ requirements.txt         packages to install
 ---
 
 ## 👤 Author
- add-pink-theme
+ 
 Made by **Yash**. If this helps you, give it a ⭐
 
 Made by **Yash**. 
 If this helps you, give it a ⭐
-main
